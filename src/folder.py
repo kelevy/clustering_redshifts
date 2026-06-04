@@ -31,18 +31,18 @@ class Folder():
             raise ValueError("No existing data")
         if not os.path.exists("../" + self.folder + "/bin" + str(self.i)):
             raise ValueError("Bin " + str(self.i) + " does not exist")
-        if not os.path.exists("../" + self.folder + "/bin" + str(self.i)+"/BIC-Table"):
-            os.makedirs("../" + self.folder + "/bin" + str(self.i) +"/BIC-Table")
+        if not os.path.exists("../" + self.folder + "/bin" + str(self.i)+"/BIC_table"):
+            os.makedirs("../" + self.folder + "/bin" + str(self.i) +"/BIC_table")
         else:
-            shutil.rmtree("../" + self.folder + "/bin" + str(self.i) +"/BIC-Table")
-            os.makedirs("../" + self.folder + "/bin" + str(self.i) + "/BIC-Table")
-        if os.path.exists("../" + self.folder + "/bin" + str(self.i) +"/Best_Fit"):
-            shutil.rmtree("../" + self.folder + "/bin" + str(self.i) + "/Best_Fit")
+            shutil.rmtree("../" + self.folder + "/bin" + str(self.i) +"/BIC_table")
+            os.makedirs("../" + self.folder + "/bin" + str(self.i) + "/BIC_table")
+        if os.path.exists("../" + self.folder + "/bin" + str(self.i) +"/best_fit"):
+            shutil.rmtree("../" + self.folder + "/bin" + str(self.i) + "/best_fit")
 
 
     def make_folder_get_bias(self):
         """Creating folder for get_best_fit-phase in fit.py"""
         if not os.path.exists("../" + self.folder):
             raise ValueError("No existing data")
-        if not os.path.exists("../" + self.folder + "/Bias"):
-            os.makedirs("../" + self.folder + "/Bias")
+        if not os.path.exists("../" + self.folder + "/bias"):
+            os.makedirs("../" + self.folder + "/bias")
