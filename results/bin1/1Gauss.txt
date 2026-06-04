@@ -1,0 +1,32 @@
+Initial parameters:
+
+               p0             p1             p2
+  Curve1       0.205          0.333          0.168
+
+
+Final parameters:
+
+               p0                 p1                 p2
+  Curve1       0.241 +/- 0.012    0.312 +/- 0.005    0.115 +/- 0.008
+
+
+Mean:
+
+  Calculated mean: 0.312 +/- 0.005
+
+
+
+Settings:
+
+  Walkers: 150
+  Burn-In steps: 500
+  Main steps: 10000
+
+
+Analyze:
+
+  Time for burn-in phase: 12s
+  Time for sample phase: 245s
+  Mean acceptance fraction: 0.421
+  Chi2: 278.0
+  BIC: 285.0

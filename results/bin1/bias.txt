@@ -1,0 +1,49 @@
+Iteration Step 0 (Initialization):
+Bias parameters:
+  A = 1.024 +/- 0.015
+  a = -0.412 +/- 0.031
+
+Iteration Step 1:
+Bias parameters:
+  A = 1.056 +/- 0.012
+  a = -0.589 +/- 0.024
+
+Iteration Step 2:
+Bias parameters:
+  A = 1.081 +/- 0.009
+  a = -0.621 +/- 0.018
+
+Iteration Step 3:
+Bias parameters:
+  A = 1.092 +/- 0.007
+  a = -0.638 +/- 0.014
+
+Iteration Step 4:
+Bias parameters:
+  A = 1.095 +/- 0.006
+  a = -0.642 +/- 0.011
+
+Iteration Step 5:
+Bias parameters:
+  A = 1.096 +/- 0.006
+  a = -0.645 +/- 0.010
+
+Iteration Step 6:
+Bias parameters:
+  A = 1.097 +/- 0.005
+  a = -0.646 +/- 0.009
+
+Iteration Step 7:
+Bias parameters:
+  A = 1.097 +/- 0.005
+  a = -0.647 +/- 0.009
+
+Iteration Step 8:
+Bias parameters:
+  A = 1.098 +/- 0.005
+  a = -0.648 +/- 0.008
+
+Iteration Step 9:
+Bias parameters:
+  A = 1.099 +/- 0.005
+  a = -0.649 +/- 0.008

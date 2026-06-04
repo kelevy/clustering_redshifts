@@ -18,7 +18,7 @@ burn_in_steps = 500
 main_steps = 10000
 priors_gauss = [[0.01, 0.4], [0, 2], [0.035, 0.3]]
 priors_bias = [[0,5],[-10,10]]
-name_save_folder = "Results"
+name_save_folder = "results"
 
 
 fit = Fit(bins, broad_bin, data_color, weights, figure_title, max_nbre_gauss_fits, model_color, walkers, walker_offset, burn_in_steps, main_steps, priors_gauss, priors_bias, name_save_folder, bins_cov, broad_bin_cov, normalize = True, mean = True)
