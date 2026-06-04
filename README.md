@@ -1,6 +1,6 @@
 # Gaussian Mixture Model & Iterative Selection Bias for Redshift Distributions
 
-A Python-based framework designed for cosmological data analysis to fit multi-component Gaussian Mixture Models (GMM) to individual tomographic redshift data bins, perform statistical model selection via the Bayesian Information Criterion (BIC), and iteratively reconstruct an overarching power-law selection bias function from wide-field surveys.
+A Python-based framework designed for cosmic shear analysis to fit multi-component Gaussian Mixture Models (GMM) to individual tomographic redshift data bins, perform statistical model selection via the Bayesian Information Criterion (BIC), and iteratively reconstruct an overarching power-law selection bias function from wide-field surveys.
 
 The codebase is modularly structured around data management, optimization algorithms, and specialized physical models:
 
