@@ -2,7 +2,7 @@
 
 A Python-based framework designed for cosmic shear analysis to fit multi-component Gaussian Mixture Models (GMM) to individual tomographic redshift data bins, perform statistical model selection via the Bayesian Information Criterion (BIC), and iteratively reconstruct an overarching power-law selection bias function from wide-field surveys.
 
-The codebase is modularly structured around data management, optimization algorithms, and specialized physical models:
+The code is modularly structured around data management, optimization algorithms, and specialized physical models:
 
 * `main.py`: The application entry point. Configures data pathways, weights, priors, and orchestrates the global iterative loops.
 * `fit.py`: Contains the `Fit` driver class which coordinates individual narrow-bin optimizations, BIC calculations, and global bias loops.
