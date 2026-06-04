@@ -30,7 +30,7 @@ Bias parameters:
 
 Iteration Step 6:
 Bias parameters:
-  A = 1.097 +/- 0.005
+  A = 1.097 +/- 0.006
   a = -0.646 +/- 0.009
 
 Iteration Step 7:

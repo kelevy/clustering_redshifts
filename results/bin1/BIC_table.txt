@@ -1,4 +1,4 @@
-Nr. of       BIC
+Nr. of        BIC
 curves
   1           285
   2           206

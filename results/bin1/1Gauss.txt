@@ -26,7 +26,7 @@ Settings:
 Analyze:
 
   Time for burn-in phase: 12s
-  Time for sample phase: 245s
+  Time for sample phase: 244s
   Mean acceptance fraction: 0.421
   Chi2: 278.0
   BIC: 285.0
