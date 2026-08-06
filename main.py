@@ -1,8 +1,6 @@
 from fit import *
 
 
-
-
 bins =  ["../Data/bin_0.101t0.301.ascii", "../Data/bin_0.301t0.501.ascii", "../Data/bin_0.501t0.701.ascii","../Data/bin_0.701t0.901.ascii","../Data/bin_0.901t1.201.ascii"]
 bins_cov = ["../Data/bin_0.101t0.301.covmat", "../Data/bin_0.301t0.501.covmat", "../Data/bin_0.501t0.701.covmat","../Data/bin_0.701t0.901.covmat","../Data/bin_0.901t1.201.covmat"]
 broad_bin = ["../Data/bin_0.101t1.201.ascii"]
